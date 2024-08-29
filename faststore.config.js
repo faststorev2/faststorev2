@@ -18,7 +18,7 @@ module.exports = {
     storeId: "faststorev2",
     workspace: 'master',
     environment: 'vtexcommercestable',
-    hideUnavailableItems: true,
+    hideUnavailableItems: false,
     incrementAddress: false,
   },
 
