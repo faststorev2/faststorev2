@@ -1,0 +1,6 @@
+extend type StoreSearchResult {
+  """
+  Custom data extending StoreProduct
+  """
+  teste: String!
+}

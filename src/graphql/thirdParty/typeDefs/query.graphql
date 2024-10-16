@@ -1,0 +1,8 @@
+type Query {
+  """
+  Get a Pokemon by name
+  """
+  getPokemon(name: String): PokemonResponse!
+}
+
+

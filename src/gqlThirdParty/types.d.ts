@@ -1,0 +1,3 @@
+interface PokemonResponse {
+  url: string
+}

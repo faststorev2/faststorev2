@@ -38,3 +38,7 @@ yarn-error.log*
 /.faststore
 .vscode/
 lighthouserc.js
+
+
+#secrets
+secrets.revealed.json
